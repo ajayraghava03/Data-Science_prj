@@ -1,4 +1,4 @@
-# CodeAlpha
+# Data Science 
 
   projects
 1. Iris Flower Classification
